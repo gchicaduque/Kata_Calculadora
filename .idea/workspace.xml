@@ -14,7 +14,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Kata_Calculadora$Unittests_in_CalculadoraTest.coverage" NAME="Unittests in CalculadoraTest Coverage Results" MODIFIED="1490252791528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Kata_Calculadora$Unittests_in_CalculadoraTest.coverage" NAME="Unittests in CalculadoraTest Coverage Results" MODIFIED="1490253458371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -25,20 +25,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calculadora.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Calculadora.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Calculadora.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.37280703">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculadoraTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculadoraTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.67105263">
+            <state vertical-scroll-proportion="0.0">
               <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -62,8 +62,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Calculadora.py" />
         <option value="$PROJECT_DIR$/CalculadoraTest.py" />
+        <option value="$PROJECT_DIR$/Calculadora.py" />
       </list>
     </option>
   </component>
@@ -393,18 +393,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.22 at 12h 00m 10s.xml">
-      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.22 at 12h 00m 32s.xml">
-      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.22 at 12h 02m 04s.xml">
-      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.22 at 12h 06m 30s.xml">
-      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_CalculadoraTest - 2017.03.22 at 12h 07m 19s.xml">
       <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
     </history-entry>
@@ -421,6 +409,18 @@
       <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittests_in_CalculadoraTest - 2017.03.23 at 02h 06m 32s.xml">
+      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.23 at 02h 15m 22s.xml">
+      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.23 at 02h 16m 51s.xml">
+      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.23 at 02h 17m 04s.xml">
+      <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_CalculadoraTest - 2017.03.23 at 02h 17m 38s.xml">
       <configuration name="Unittests in CalculadoraTest" configurationId="tests" />
     </history-entry>
   </component>
@@ -490,21 +490,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Calculadora.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CalculadoraTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.67105263">
+        <state vertical-scroll-proportion="0.0">
           <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calculadora.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37280703">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
